@@ -1,4 +1,4 @@
-# Automação com Playwright - OrangeHRM
+# Automação com Playwright - OrangeHRM - Lucas José - QA Engineer
 
 ## 📌 Projeto
 Automação de testes E2E em sistema de RH utilizando Playwright.
@@ -16,4 +16,4 @@ Automação de testes E2E em sistema de RH utilizando Playwright.
 
 ## ▶️ Como rodar
 npm install  
-npx playwright test
+npx playwright testgit add 
