@@ -1,4 +1,4 @@
-# 🚀 Automação de Testes E2E com Playwright – OrangeHRM Lucas José
+# 🚀 Automação de Testes E2E com Playwright – OrangeHRM - Lucas José
 
 ## 📌 Sobre o Projeto
 
@@ -111,7 +111,7 @@ Este projeto foi desenvolvido com foco em práticas utilizadas no mercado de QA,
 
 Desenvolvido por Lucas José
 📌 Focado em Qualidade de Software (QA) e Automação de Testes
-
+git
 ---
 
 ## 📬 Contato
