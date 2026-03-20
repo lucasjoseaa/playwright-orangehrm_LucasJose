@@ -93,6 +93,7 @@ O Playwright gera automaticamente relatórios HTML detalhados com:
 * Execução dos testes
 * Evidências (screenshots e vídeos)
 * Logs de falha
+![Report Playwright](./assets/report.png)
 
 ---
 
